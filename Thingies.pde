@@ -1,5 +1,4 @@
-public void setup()
-{
+public void setup() {
   Thingy bob = new Thingy();
   Thingy mary = new Thingy();
   bob.setX(30);
